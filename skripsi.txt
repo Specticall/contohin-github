@@ -2,3 +2,5 @@ Nama: Joseph
 NIM: 123456789
 
 C. ini bagian C yang disuru ditambahin sama dosen
+
+D. ini bagian D yang aku tambahin
