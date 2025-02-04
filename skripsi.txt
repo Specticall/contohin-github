@@ -2,3 +2,5 @@ Nama: Joseph
 NIM: 123456789
 
 Ini isi skripsi saya
+
+C. ini bagian C yang disuru ditambahin sama dosen
