@@ -1,0 +1,4 @@
+Nama: Joseph
+NIM: 123456789
+
+Ini isi skripsi saya
